@@ -1,0 +1,6 @@
+Symbol	Name	Last Traded Price	Change Of Price	Percentage Of Change
+NVDA	NVIDIA Corporation	120.07	-4.580002	-3.6742897
+RGTI	Rigetti Computing, Inc.	13.17	0.8699999	7.0731697
+INTC	Intel Corporation	19.43	-0.5799999	-2.8985503
+F	Ford Motor Company	10.08	-0.0799999	-0.787401
+WBA	Walgreens Boots Alliance, Inc.	10.28	-1.1800003	-10.296687

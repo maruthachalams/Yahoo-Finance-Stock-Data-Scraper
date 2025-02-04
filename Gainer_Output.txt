@@ -1,0 +1,6 @@
+Symbol	Name	Last Traded Price	Change Of Price	Percentage Of Change
+VIAV	Viavi Solutions Inc.	12.04	2.0500002	20.520523
+TEAM	Atlassian Corporation	306.78	39.829987	14.920391
+ASTS	AST SpaceMobile, Inc.	20.24	2.0300007	11.147726
+BEN	Franklin Resources, Inc.	22.24	2.09	10.3722
+HIMS	Hims & Hers Health, Inc.	37.28	3.32	9.77621

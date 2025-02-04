@@ -1,0 +1,6 @@
+Symbol	Name	Last Traded Price	Change Of Price	Percentage Of Change
+DECK	Deckers Outdoor Corporation	177.36	-45.75	-20.5056
+WBA	Walgreens Boots Alliance, Inc.	10.28	-1.1800003	-10.296687
+OLN	Olin Corporation	29.29	-2.85	-8.86745
+PFSI	PennyMac Financial Services, Inc.	104.69	-10.13	-8.8225
+RMD	ResMed Inc.	236.18	-21.47	-8.33301
